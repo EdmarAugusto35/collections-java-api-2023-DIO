@@ -1,6 +1,4 @@
-package Main.List.Pesquisa;
-
-import java.util.Date;
+package Main.java.List.Pesquisa;
 
 public class Livro {
     //Atributos

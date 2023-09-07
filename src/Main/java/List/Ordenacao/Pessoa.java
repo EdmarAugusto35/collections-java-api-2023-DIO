@@ -1,4 +1,4 @@
-package Main.List.Ordenacao;
+package Main.java.List.Ordenacao;
 
 import java.util.Comparator;
 
